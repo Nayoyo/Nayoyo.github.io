@@ -8,14 +8,14 @@
 - 千葉
 - Web開発
 
-# Skills
+## Skills
 - OS. Ubuntu
 - Language. HTML,  CSS, JavaScript, Java, C言語
 - Engine,Frameworks.  Node.js, Express
 - Tool,MiddleWare.  Git, PostgreSQL
 
-# Works
+## Works
 - GitHub URL
 
-# Contact
--ntwitter URL
+## Contact
+- twitter URL
