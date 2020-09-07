@@ -11,11 +11,11 @@
 # Skills
 - OS. Ubuntu
 - Language. HTML,  CSS, JavaScript, Java, C言語
--Engine,Frameworks.  Node.js, Express
--Tool,MiddleWare.  Git, PostgreSQL
+- Engine,Frameworks.  Node.js, Express
+- Tool,MiddleWare.  Git, PostgreSQL
 
-#Works
--GitHub URL
+# Works
+- GitHub URL
 
-#Contact
--twitter URL
+# Contact
+-ntwitter URL
